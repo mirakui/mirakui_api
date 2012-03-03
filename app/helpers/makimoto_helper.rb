@@ -1,0 +1,2 @@
+module MakimotoHelper
+end
